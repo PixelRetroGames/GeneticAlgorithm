@@ -1,0 +1,1 @@
+erase output\\*.txt

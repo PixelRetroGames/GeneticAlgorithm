@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1524935122 source:d:\genetic test\main.cpp
+	"externs.h"
+	"individual.h"
+	"genetic_algorithm.h"
+	<iostream>
+
+1524934898 d:\genetic test\externs.h
+	<vector>
+
+1524921349 d:\genetic test\individual.h
+	"externs.h"
+	<ctime>
+	<cstdlib>
+	<cstdio>
+
+1524934088 source:d:\genetic test\individual.cpp
+	<cmath>
+	"individual.h"
+
+1524933995 source:d:\genetic test\externs.cpp
+	"externs.h"
+	<queue>
+	<cstdio>
+	<cmath>
+
+1524935900 source:d:\genetic test\genetic_algorithm.cpp
+	<windows.h>
+	"genetic_algorithm.h"
+	<algorithm>
+
+1524919687 d:\genetic test\genetic_algorithm.h
+	<vector>
+	"individual.h"
+
+1525252950 source:f:\genetic test\main.cpp
+	"externs.h"
+	"individual.h"
+	"genetic_algorithm.h"
+	<iostream>
+
+1525252584 f:\genetic test\externs.h
+	<queue>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<vector>
+
+1525252610 f:\genetic test\individual.h
+	"externs.h"
+	<ctime>
+	<cstdlib>
+	<cstdio>
+
+1525253742 f:\genetic test\genetic_algorithm.h
+	<vector>
+	<windows.h>
+	"individual.h"
+
+1525252568 source:f:\genetic test\externs.cpp
+	"externs.h"
+
+1525253974 source:f:\genetic test\genetic_algorithm.cpp
+	<windows.h>
+	"genetic_algorithm.h"
+	<algorithm>
+
+1525252610 source:f:\genetic test\individual.cpp
+	<cmath>
+	"individual.h"
+
