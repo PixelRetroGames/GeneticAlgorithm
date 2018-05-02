@@ -46,7 +46,7 @@ void Genetic_algorithm::Breed_Generation()
     }
 }
 
-const int SAVE_FREQUENCY=30;
+const int SAVE_FREQUENCY=10;
 
 void Genetic_algorithm::Evolve()
 {
@@ -64,7 +64,7 @@ void Genetic_algorithm::Evolve()
         generation++;
         //if(generation%10==0)
             printf("Gen:%d Average:%d\n",generation,average_fitness);
-        if(achieved>=individuals.size()*3/4)
+        if(achieved>=individuals.size()*9/10)
             break;
         Breed_Generation();
     }

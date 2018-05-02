@@ -8,6 +8,6 @@ int main()
 {
  srand(time(NULL));
  Load_map("map.txt");
- Genetic_algorithm test(200);
+ Genetic_algorithm test(1000);
  test.Evolve();
 }

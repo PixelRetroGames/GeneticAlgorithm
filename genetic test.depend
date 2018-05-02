@@ -33,7 +33,7 @@
 	<vector>
 	"individual.h"
 
-1525252950 source:f:\genetic test\main.cpp
+1525258814 source:f:\genetic test\main.cpp
 	"externs.h"
 	"individual.h"
 	"genetic_algorithm.h"
@@ -60,7 +60,7 @@
 1525252568 source:f:\genetic test\externs.cpp
 	"externs.h"
 
-1525253974 source:f:\genetic test\genetic_algorithm.cpp
+1525258752 source:f:\genetic test\genetic_algorithm.cpp
 	<windows.h>
 	"genetic_algorithm.h"
 	<algorithm>
